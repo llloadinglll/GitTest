@@ -1,0 +1,3 @@
+[submodule "GitTestSub"]
+	path = GitTestSub
+	url = https://github.com/llloadinglll/GitTestSub.git
