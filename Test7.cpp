@@ -1,2 +1,6 @@
-//modified by ld on pad
-//modified by mbposx 4 7 14 51
+int main()
+{
+	int a,b;
+	a=0;
+	b=a=1;
+}
